@@ -1,0 +1,15 @@
+{
+  "bos_token": "<s>",
+  "do_lower_case": false,
+  "do_normalize": true,
+  "eos_token": "</s>",
+  "name_or_path": "facebook/wav2vec2-large-960h",
+  "pad_token": "<pad>",
+  "processor_class": "Wav2Vec2Processor",
+  "replace_word_delimiter_char": " ",
+  "return_attention_mask": false,
+  "special_tokens_map_file": "C:\\Users\\jatin/.cache\\huggingface\\hub\\models--facebook--wav2vec2-large-960h\\snapshots\\bdeaacdf88f7a155f50a2704bc967aa81fbbb2ab\\special_tokens_map.json",
+  "tokenizer_class": "Wav2Vec2CTCTokenizer",
+  "unk_token": "<unk>",
+  "word_delimiter_token": "|"
+}
